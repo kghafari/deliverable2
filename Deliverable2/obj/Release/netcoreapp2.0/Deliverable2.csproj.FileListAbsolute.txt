@@ -1,0 +1,10 @@
+C:\Users\Odin\source\repos\Deliverable2\Deliverable2\bin\Release\netcoreapp2.0\Deliverable2.deps.json
+C:\Users\Odin\source\repos\Deliverable2\Deliverable2\bin\Release\netcoreapp2.0\Deliverable2.runtimeconfig.json
+C:\Users\Odin\source\repos\Deliverable2\Deliverable2\bin\Release\netcoreapp2.0\Deliverable2.runtimeconfig.dev.json
+C:\Users\Odin\source\repos\Deliverable2\Deliverable2\bin\Release\netcoreapp2.0\Deliverable2.dll
+C:\Users\Odin\source\repos\Deliverable2\Deliverable2\bin\Release\netcoreapp2.0\Deliverable2.pdb
+C:\Users\Odin\source\repos\Deliverable2\Deliverable2\obj\Release\netcoreapp2.0\Deliverable2.csproj.CoreCompileInputs.cache
+C:\Users\Odin\source\repos\Deliverable2\Deliverable2\obj\Release\netcoreapp2.0\Deliverable2.AssemblyInfoInputs.cache
+C:\Users\Odin\source\repos\Deliverable2\Deliverable2\obj\Release\netcoreapp2.0\Deliverable2.AssemblyInfo.cs
+C:\Users\Odin\source\repos\Deliverable2\Deliverable2\obj\Release\netcoreapp2.0\Deliverable2.dll
+C:\Users\Odin\source\repos\Deliverable2\Deliverable2\obj\Release\netcoreapp2.0\Deliverable2.pdb
